@@ -62,7 +62,7 @@ function MealItem({id, imageURL, duration, complexity, addordability}){
             borderRadius: 8,
             overflow: 'hidden'
         },
-        image{
+        image:{
             width: '100%',
             height: 200
 
